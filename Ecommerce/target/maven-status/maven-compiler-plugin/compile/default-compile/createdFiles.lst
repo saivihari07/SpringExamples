@@ -1,0 +1,7 @@
+org\spring\config\MySecurityConfig.class
+org\spring\config\SecurityInitilizer.class
+org\spring\config\WebInitilizer.class
+org\spring\controller\MyController.class
+org\spring\dao\SignUpDao.class
+org\spring\model\SignUp.class
+org\spring\config\MyWebConfigLikeApplContext.class
